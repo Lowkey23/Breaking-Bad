@@ -256,7 +256,7 @@ a { text-decoration: none; }
 }
 .cranst {
   position: absolute;
-  bottom: 90%;
+  bottom: 89.5%;
   left: 3%;
   color: white;
   font-family: 'Lobster', cursive;
@@ -290,20 +290,38 @@ a { text-decoration: none; }
 }
 .sky {
   position: absolute;
-  bottom: 35%;
+  bottom: 35.3%;
   left: 3%;
   color: white;
   font-family: 'Lobster', cursive;
   font-size: 16px;
 }
+.ann {
+  position: absolute;
+  width: 100%;
+  width: 120px;
+  height: 112px;
+  top: 66%;
+  left: 16%;
+}
 .anna {
   position: absolute;
-  bottom: 12%;
+  bottom: 18%;
+  left: 3%;
+  color: #007acc;
+  font-size: 15px;
+  width: 200px;
+  font-family: 'Cinzel', serif;
+}
+.AN {
+  position: absolute;
+  bottom: 4%;
   left: 3%;
   color: #007acc;
   font-size: 15px;
   width: 350px;
   font-family: 'Cinzel', serif;
+
 }
 .AP {
   position: absolute;
@@ -311,13 +329,13 @@ a { text-decoration: none; }
   width: 140px;
   height: 100px;
   bottom: 74%;
-  right: 7.5%;
+  right: 5.5%;
 
 }
 .aaron {
   position: absolute;
-  bottom: 90%;
-  right: 20%;
+  bottom: 89%;
+  right: 19.7%;
   color: white;
   font-family: 'Lobster', cursive;
   font-size: 16px;
@@ -325,7 +343,7 @@ a { text-decoration: none; }
 .paul {
   position: absolute;
   bottom: 73.5%;
-  right: 17%;
+  right: 15%;
   color: #007acc;
   width: 150px;
   font-size: 15px;
@@ -334,9 +352,43 @@ a { text-decoration: none; }
 .paul2 {
   position: absolute;
   bottom: 51.5%;
-  right: 7.3%;
+  right: 5.3%;
   color: #007acc;
   width: 300px;
+  font-size: 15px;
+  font-family: 'Cinzel', serif;
+}
+.dean {
+  position: absolute;
+  bottom: 42.5%;
+  right: 19%;
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 16px;
+}
+.DN {
+  position: absolute;
+  width: 100%;
+  width: 140px;
+  height: 120px;
+  bottom: 24%;
+  right: 4.5%;
+}
+.norris {
+  position: absolute;
+  bottom: 23%;
+  right: 13.9%;
+  color: #007acc;
+  width: 170px;
+  font-size: 15px;
+  font-family: 'Cinzel', serif;
+}
+.norr {
+  position: absolute;
+  bottom: 5%;
+  right: 2.2%;
+  color: #007acc;
+  width: 350px;
   font-size: 15px;
   font-family: 'Cinzel', serif;
 }
