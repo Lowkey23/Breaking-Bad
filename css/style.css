@@ -441,3 +441,60 @@ a { text-decoration: none; }
   left: 76%;
   font-family: 'Raleway', sans-serif;
 }
+.contact {
+  position: relative;
+  max-width: 1170px;
+  margin: 0 auto;
+  width: 100%;
+}
+.white {
+  position: absolute;
+  width: 100%;
+  height: 720px;
+  width: 1535px;
+  left: -15.6%;
+}
+.fa-facebook-f {
+  transition: transform 0.5s;
+  top: 260px;
+  left: 32%;
+  position: absolute;
+  font-size: 60px;
+  color: #3D58A6;
+}
+.fa-facebook-f:hover {
+  transform: scale(1.5);
+}
+.fa-twitter {
+  transition: transform 0.5s;
+  top: 260px;
+  left: 40.2%;
+  position: absolute;
+  font-size: 60px;
+  color: #38A1F3;
+}
+.fa-twitter:hover {
+  transform: scale(1.5);
+}
+.fa-instagram {
+  transition: transform 0.5s;
+  top: 260px;
+  left: 51.5%;
+  position: absolute;
+  font-size: 60px;
+  color: #00ffff;
+}
+.fa-instagram:hover {
+  transform: scale(1.5);
+}
+.fa-youtube{
+  transition: transform 0.5s;
+  top: 260px;
+  left: 61.5%;
+  position: absolute;
+  font-size: 60px;
+  color: #ED3833;
+}
+.fa-youtube:hover {
+  transform: scale(1.5);
+}
